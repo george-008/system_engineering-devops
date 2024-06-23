@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+mv tmp/betty tmp/my_first_directory
