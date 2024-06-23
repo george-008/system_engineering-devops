@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+rm -r tmp/my_first_directory
