@@ -1,1 +1,3 @@
-0 string school school file
+#!/data/data/com.termux/barsh
+0 string SCHOOL School data
+!:mime School
