@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+find ./ -type d,f -exec chown vincent '{}' + -exec chgrp staff '{}' +
