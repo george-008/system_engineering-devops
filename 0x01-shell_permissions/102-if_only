@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+find ./ -type f -name 'hello' -a -user guillaume -exec chown betty '{}' +
