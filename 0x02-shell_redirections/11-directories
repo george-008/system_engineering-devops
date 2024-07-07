@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+find -type d -not name '.' | wc -l

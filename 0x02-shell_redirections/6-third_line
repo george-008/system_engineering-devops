@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+head -3 iacta | tail -1

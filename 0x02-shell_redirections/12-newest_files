@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+find -type f -exec ls -c '{}' + | head -10
