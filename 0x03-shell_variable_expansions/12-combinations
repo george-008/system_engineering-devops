@@ -1,0 +1,2 @@
+#!/data/data/com.termux/barsh
+echo {a..z}{a..z} | tr -t [:blank:] [\\n] | grep -v "oo"
